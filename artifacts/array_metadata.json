@@ -1,0 +1,64 @@
+{
+	"compiler": {
+		"version": "0.8.6+commit.11564f7e"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "index",
+						"type": "uint256"
+					},
+					{
+						"internalType": "uint256",
+						"name": "value",
+						"type": "uint256"
+					}
+				],
+				"name": "setter",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"artifacts\\Arrays.sol": "array"
+		},
+		"evmVersion": "berlin",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"artifacts\\Arrays.sol": {
+			"keccak256": "0x203c3c5940f0590eb0cb29881efd0f13590da7d24f99ddae7f738dbd1ba2de98",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://aa02ab829a3fea6f5b3443a92470e6bd954f9393b839bb7313a52faf171ab264",
+				"dweb:/ipfs/QmYaDSRdn9YaY1xLbeyn8AzyJai9Qm8hKhZZdGnnRko8nc"
+			]
+		}
+	},
+	"version": 1
+}
